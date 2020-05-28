@@ -1,33 +1,26 @@
 # Project Title
 
-One Paragraph of project description goes here.
+Dekow worked this project zybook.py to count car services and their costs.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+You will need to use Python to run this zybook.py file.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+install pycharm to use it to save files from zybook.
 
 ## Running
-Once installed you can run the program with the following command
+Once installed pycharm on local computer file zybook.py can run.
 
 ```
-python cna_demo.py
 ```
 
 Add any additional ways to run the program below
 
 ```
-python cna_demo.py test.txt
+This zybook.py can run in command line if python is installed on local computers.
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+I watched a GITHUB tutorial video that helped me a little bit, and I did after a lot of trials.
